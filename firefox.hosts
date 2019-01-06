@@ -1,0 +1,63 @@
+# reporting
+firefox.settings.services.mozilla.com
+coverage.mozilla.org
+crash-stats.mozilla.com
+incoming.telemetry.mozilla.org
+input.mozilla.org
+install.mozilla.org
+perf-html.io
+sentry.prod.mozaws.net
+testpilot.firefox.com
+tracking-protection-issues.herokuapp.com
+webcompat.com
+
+# new tab content
+onyx_tiles.stage.mozaws.net
+snippets.cdn.mozilla.net
+tiles.services.mozilla.com
+discovery.addons.mozilla.org
+
+# firefox sync
+accounts.firefox.com
+api.accounts.firefox.com
+oauth.accounts.firefox.com
+token.services.mozilla.com
+profile.accounts.firefox.com
+webextensions.settings.services.mozilla.com
+
+# addons and extensions
+addons.mozilla.org
+discovery.addons.mozilla.org
+services.addons.mozilla.org
+ftp.mozilla.org
+aus5.mozilla.org
+versioncheck.addons.mozilla.org
+versioncheck-bg.addons.mozilla.org
+
+# accounts
+accounts-static.cdn.mozilla.net
+accounts.firefox.com
+addons.cdn.mozilla.net
+addons.mozilla.org
+api.accounts.firefox.com
+content.cdn.mozilla.net
+discovery.addons.mozilla.org
+input.mozilla.org
+install.mozilla.org
+oauth.accounts.firefox.com
+profile.accounts.firefox.com
+support.mozilla.org
+sync.services.mozilla.com
+testpilot.firefox.com
+
+# location
+location.services.mozilla.com
+search.services.mozilla.com
+
+# safebrowsing
+shavar.services.mozilla.com
+sb-ssl.google.com
+safebrowsing.googleapis.com
+
+# devtools
+code.cdn.mozilla.net
